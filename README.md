@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh</h1>
-<h3 align="center">A passionate programmer who is a quick learner with a strong work ethic, I am eager to apply my technical skills in a developing environment.</h3>
+<h3 align="center">A passionate Digital Marketer who is a quick learner with a strong work ethic, I am eager to apply my SEO skills in a developing environment.</h3>
 
 - 🔭 I’m currently working as a Software Developer at **League 11**
 
